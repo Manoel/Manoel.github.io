@@ -1092,26 +1092,44 @@ body > footer .copyrights {
 /*Skill 1*/
 .skill-percentage.skill-1 {
   width: 88%;
+  display: flex;  
+  justify-content: space-between;
+  margin-bottom: 10px;
 }
 /*Skill 2*/
 .skill-percentage.skill-2 {
   width: 75%;
+  display: flex;  
+  justify-content: space-between;
+  margin-bottom: 10px;
 }
 /*Skill 3*/
 .skill-percentage.skill-3 {
   width: 60%;
+  display: flex;  
+  justify-content: space-between;
+  margin-bottom: 10px;
 }
 /*Skill 4*/
 .skill-percentage.skill-4 {
   width: 65%;
+  display: flex;  
+  justify-content: space-between;
+  margin-bottom: 10px;
 }
 /*Skill 5*/
 .skill-percentage.skill-5 {
   width: 55%;
+  display: flex;  
+  justify-content: space-between;
+  margin-bottom: 10px;
 }
 /*Skill 6*/
 .skill-percentage.skill-6 {
   width: 32%;
+  display: flex;  
+  justify-content: space-between;
+  margin-bottom: 10px;
 }
 /*Skill 7*/
 .skill-percentage.skill-7 {
